@@ -10,11 +10,11 @@ price – числовой тип, беззнаковый.
 Используя CRUD-операцию INSERT, наполните сущность mobile_phones данными:
 
 product_name	manufacturer	product_count	price
-iPhone X	    Apple	        156	            76000
-iPhone 8	    Apple	        180	            51000
-Galaxy S9	    Samsung	        21	            56000
-Galaxy S8	    Samsung	        124	            41000
-P20 Pro	        Huawei	        341	            36000
+iPhone X	     Apple	     156	          76000
+iPhone 8	     Apple	     180	          51000
+Galaxy S9	     Samsung	     21	          56000
+Galaxy S8	     Samsung	     124	          41000
+P20 Pro	     Huawei	     341	          36000
 */
 
 -- Вы работаете с PostgreSQL
